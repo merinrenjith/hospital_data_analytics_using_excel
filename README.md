@@ -81,3 +81,12 @@ To clean, analyze, and visualize a healthcare dataset to uncover trends in **bil
 ---
 
 ## 🗂 Repository Structure
+- Healthcare_Data_Analytics_Dashboard.xlsx  
+  → Main Excel workbook containing:
+    - Raw data
+    - Cleaned data
+    - PivotTables
+    - Interactive dashboard with KPIs and slicers
+
+- README.md  
+  → Project overview, objectives, methodology, key insights, and deliverables
